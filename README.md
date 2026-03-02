@@ -27,6 +27,8 @@ FEATURES :
 - HTML5
 - CSS3
 - Git & GitHub
+- python(fast api)
+- 
 
 ---
 
