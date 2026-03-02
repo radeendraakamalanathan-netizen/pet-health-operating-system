@@ -28,7 +28,6 @@ FEATURES :
 - CSS3
 - Git & GitHub
 - python(fast api)
-- 
 
 ---
 
